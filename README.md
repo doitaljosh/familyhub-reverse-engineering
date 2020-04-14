@@ -10,4 +10,4 @@
 I also have the kernel source in another repository on this GitHub.
 
 Link to eMMC dump:
-[eMMC Dump]: https://drive.google.com/open?id=1EEu9Bo_G7YT0eayj8dMk02mA-GYO4zgv
+[eMMC Dump](https://drive.google.com/open?id=1EEu9Bo_G7YT0eayj8dMk02mA-GYO4zgv)
